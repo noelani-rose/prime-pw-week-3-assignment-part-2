@@ -68,7 +68,6 @@ while (star) {
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
 index = 0
-
 while (index < 6){
   console.log(index);
   index++;
